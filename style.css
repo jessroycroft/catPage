@@ -1,0 +1,17 @@
+body {
+	background: #fcfcfc;
+}
+
+h1 {
+	text-transform: uppercase;
+	color: cadetblue;
+}
+
+p {
+	text-transform: lowercase;
+	color: grey;
+}
+
+img {
+	width: 30%;
+}
